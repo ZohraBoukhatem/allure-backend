@@ -12,8 +12,7 @@ The repo consists of the configurations (db connection, port setup, json), error
 # To run the code locally:
 - clone this repo
 - clone the frontend repo as well
-In the terminal run:
-- npm i, npm i express, npm i mongoose, npm cors, and all other missing dependencies (can be found in the package.json file)
+- in the terminal run: npm i, npm i express, npm i mongoose, npm cors, and all other missing dependencies (can be found in the package.json file)
 - lastly, npm run dev 
 
 
